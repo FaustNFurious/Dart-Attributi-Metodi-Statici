@@ -4,7 +4,7 @@ import 'package:attributi_metodi_statici/calculator.dart';
 
 void main(List<String> arguments) {
   //print('Hello world: ${attributi_metodi_statici.calculate()}!');
-
+  
   // Somma
   int sum = Calculator.add(10, 5);
   print('La somma è: $sum');
